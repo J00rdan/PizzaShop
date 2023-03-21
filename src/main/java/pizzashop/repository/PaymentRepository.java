@@ -4,15 +4,24 @@ import pizzashop.model.Payment;
 import pizzashop.model.PaymentType;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.StringTokenizer;
+import java.util.*;
+import java.util.spi.ResourceBundleProvider;
 
 public class PaymentRepository {
-    private static String filename = "data/payments.txt";
+    private static String filename;
     private List<Payment> paymentList;
 
     public PaymentRepository(){
+        Properties prop = new Properties();
+
+        try {
+            prop.load(new FileInputStream("/Users/andrei/Documents/Facultate/Anul 3/Semestrul 2/VVSS/Pizza/src/main/resources/config.properties"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        filename = prop.getProperty("payments_file");
+
         this.paymentList = new ArrayList<>();
         readPayments();
     }

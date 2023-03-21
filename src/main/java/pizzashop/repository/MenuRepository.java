@@ -5,13 +5,23 @@ import pizzashop.model.MenuDataModel;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
 import java.util.StringTokenizer;
 
 public class MenuRepository {
-    private static String filename = "data/menu.txt";
+    private static String filename;
     private List<MenuDataModel> listMenu;
 
     public MenuRepository(){
+        Properties prop = new Properties();
+
+        try {
+            prop.load(new FileInputStream("/Users/andrei/Documents/Facultate/Anul 3/Semestrul 2/VVSS/Pizza/src/main/resources/config.properties"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        filename = prop.getProperty("menu_file");
     }
 
     private void readMenu(){
