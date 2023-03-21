@@ -48,20 +48,24 @@ public class KitchenGUIController {
         //Controller for Cook Button
         cook.setOnAction(event -> {
             selectedOrder = kitchenOrdersList.getSelectionModel().getSelectedItem();
-            kitchenOrdersList.getItems().remove(selectedOrder);
-            kitchenOrdersList.getItems().add(selectedOrder.toString()
-                     .concat(" Cooking started at: ").toUpperCase()
-                     .concat(now.get(Calendar.HOUR)+":"+now.get(Calendar.MINUTE)));
+            if (selectedOrder != null) {
+                kitchenOrdersList.getItems().remove(selectedOrder);
+                kitchenOrdersList.getItems().add(selectedOrder.toString()
+                        .concat(" Cooking started at: ").toUpperCase()
+                        .concat(now.get(Calendar.HOUR) + ":" + now.get(Calendar.MINUTE)));
+            }
         });
         //Controller for Ready Button
         ready.setOnAction(event -> {
             selectedOrder = kitchenOrdersList.getSelectionModel().getSelectedItem();
-            kitchenOrdersList.getItems().remove(selectedOrder);
-            extractedTableNumberString = selectedOrder.toString().subSequence(5, 6).toString();
-            extractedTableNumberInteger = Integer.valueOf(extractedTableNumberString);
-            System.out.println("--------------------------");
-            System.out.println("Table " + extractedTableNumberInteger +" ready at: " + now.get(Calendar.HOUR)+":"+now.get(Calendar.MINUTE));
-            System.out.println("--------------------------");
+            if (selectedOrder != null) {
+                kitchenOrdersList.getItems().remove(selectedOrder);
+                extractedTableNumberString = selectedOrder.toString().subSequence(5, 6).toString();
+                extractedTableNumberInteger = Integer.valueOf(extractedTableNumberString);
+                System.out.println("--------------------------");
+                System.out.println("Table " + extractedTableNumberInteger + " ready at: " + now.get(Calendar.HOUR) + ":" + now.get(Calendar.MINUTE));
+                System.out.println("--------------------------");
+            }
         });
     }
 }
