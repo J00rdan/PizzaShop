@@ -32,8 +32,9 @@ public class PizzaService {
         List<Payment> l=getPayments();
         if ((l==null) ||(l.size()==0)) return total;
         for (Payment p:l){
-            if (p.getType() == type)
+            if (p.getType() == type) {
                 total+=p.getAmount();
+            }
         }
         return total;
     }
