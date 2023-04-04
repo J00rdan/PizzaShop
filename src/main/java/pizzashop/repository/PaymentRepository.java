@@ -4,29 +4,21 @@ import pizzashop.model.Payment;
 import pizzashop.model.PaymentType;
 
 import java.io.*;
-import java.util.*;
-import java.util.spi.ResourceBundleProvider;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.StringTokenizer;
 
 public class PaymentRepository {
-    private String filename;
+    private static String filename = "data/payments.txt";
     private List<Payment> paymentList;
 
     public PaymentRepository(){
-        Properties prop = new Properties();
-
-        try {
-            prop.load(new FileInputStream("/Users/andrei/Documents/Facultate/Anul 3/Semestrul 2/VVSS/Pizza/src/main/resources/config.properties"));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        filename = prop.getProperty("payments_file");
-
         this.paymentList = new ArrayList<>();
         readPayments();
     }
 
     private void readPayments(){
+        //ClassLoader classLoader = PaymentRepository.class.getClassLoader();
         File file = new File(filename);
         BufferedReader br = null;
         try {
@@ -55,7 +47,9 @@ public class PaymentRepository {
         return item;
     }
 
-    public void add(Payment payment){
+    public void add(Payment payment) throws Exception{
+        if(payment.getAmount() <= 0) throw new Exception("negative amount");
+        if(payment.getTableNumber() <= 0 || payment.getTableNumber() >= 9) throw new Exception("invalid table");
         paymentList.add(payment);
         writeAll();
     }

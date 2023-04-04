@@ -1,0 +1,54 @@
+
+’
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ÍÎ§˜şÿÿÿÿ
+
+java:S1120"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(»Ëì²
+
+java:S1120"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÿ‡ı
+“
+java:S1120"xMake this line start after 6 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(€ÉÔ…ıÿÿÿÿ
+
+java:S1120"yMake this line start after 14 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ËÙœ
+”
+java:S1120""yMake this line start after 18 spaces instead of 20 in order to indent the code consistently. (Indentation level is at 2.)(Ëä…±øÿÿÿÿ
+
+java:S1120&"yMake this line start after 18 spaces instead of 20 in order to indent the code consistently. (Indentation level is at 2.)(í‘Åş
+
+java:S1120)"yMake this line start after 18 spaces instead of 20 in order to indent the code consistently. (Indentation level is at 2.)(í‘Åş
+;
+java:S1166"%Either log or rethrow this exception.(ï­£Ä
+C
+java:S1604"(Make this anonymous inner class a lambda(ùë²¥şÿÿÿÿ
+g
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÍÎ§˜şÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(õâ©áÿÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÍÎ§˜şÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ï­£Ä
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ùë²¥şÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ËÙœ
+V
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(¼ı¦7
+\
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(ë¡¦êùÿÿÿÿ
+W
+java:S1106("AMove this left curly brace to the beginning of next line of code.(á¢–¬
+J
+java:S3655 "5Call "result.isPresent()" before accessing the value.(¼ı¦7
+4
+java:S1451"&Add or update the header of this file.
+`	java:S103"KSplit this 147 characters long line (which is greater than 120 authorized).(¶§â…
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÎ§˜şÿÿÿÿ
+H
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ï­£Ä
+c
+java:S1107%"HMove this "else" on the same line that the previous closing curly brace.(ë¡¦êùÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(Š‘Ÿûÿÿÿÿ
+^
+java:S1107("HMove this "else" on the same line that the previous closing curly brace.(á¢–¬

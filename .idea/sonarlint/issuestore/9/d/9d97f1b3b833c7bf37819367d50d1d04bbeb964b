@@ -1,0 +1,106 @@
+
+”
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(ß”þ“8Áó—±ð0
+”
+java:S1120;"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÜŒˆ’8Áó—±ð0
+™
+java:S1120@"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ÿ‰þÿÿÿÿ8Áó—±ð0
+›
+java:S1120A"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(»†·ýÿÿÿÿ8Âó—±ð0
+›
+java:S1120E"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(…Ù—×úÿÿÿÿ8Âó—±ð0
+›
+java:S1120I"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(î‹ª—üÿÿÿÿ8Âó—±ð0
+–
+java:S1120M"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(îª°â8Âó—±ð0
+–
+java:S1120Q"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(»úæ–8Âó—±ð0
+–
+java:S1120U"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(õÄ—¦8Âó—±ð0
+›
+java:S1120Y"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(×¶«˜øÿÿÿÿ8Ãó—±ð0
+•
+java:S1120]"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÇèŸ8Ãó—±ð0
+™
+java:S1120f"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(¡¦±íþÿÿÿÿ8Ãó—±ð0
+›
+java:S1120g"yMake this line start after 15 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ƒÑÀ·ùÿÿÿÿ8Ãó—±ð0
+s	java:S109E"RAssign this magic number 2 to a well-named constant, and use the constant instead.(…Ù—×úÿÿÿÿ8Äó—±ð0
+s	java:S109I"RAssign this magic number 3 to a well-named constant, and use the constant instead.(î‹ª—üÿÿÿÿ8Äó—±ð0
+n	java:S109M"RAssign this magic number 4 to a well-named constant, and use the constant instead.(îª°â8Äó—±ð0
+n	java:S109Q"RAssign this magic number 5 to a well-named constant, and use the constant instead.(»úæ–8Äó—±ð0
+n	java:S109U"RAssign this magic number 6 to a well-named constant, and use the constant instead.(õÄ—¦8Äó—±ð0
+s	java:S109Y"RAssign this magic number 7 to a well-named constant, and use the constant instead.(×¶«˜øÿÿÿÿ8Äó—±ð0
+m	java:S109]"RAssign this magic number 8 to a well-named constant, and use the constant instead.(ÇèŸ8Åó—±ð0
+t	java:S109|"SAssign this magic number 15 to a well-named constant, and use the constant instead.(™ž•ëþÿÿÿÿ8Åó—±ð0
+f
+java:S5612f"DReduce this lambda expression number of lines from 26 to at most 10.(¡¦±íþÿÿÿÿ8Éó—±ð0
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¶›¿¸øÿÿÿÿ8Ìó—±ð0
+^
+java:S11068"AMove this left curly brace to the beginning of next line of code.(‚–ˆ‡8Ìó—±ð0
+c
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(Áƒúþûÿÿÿÿ8Ìó—±ð0
+c
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(¼—³ùÿÿÿÿ8Íó—±ð0
+c
+java:S1106d"AMove this left curly brace to the beginning of next line of code.(·žòþÿÿÿÿ8Íó—±ð0
+;
+java:S1451"&Add or update the header of this file.8ßó—±ð0
+g	java:S103p"KSplit this 134 characters long line (which is greater than 120 authorized).(˜Á¡¸8àó—±ð0
+l	java:S103s"KSplit this 125 characters long line (which is greater than 120 authorized).(Þåü¦ûÿÿÿÿ8àó—±ð0
+l	java:S103u"KSplit this 144 characters long line (which is greater than 120 authorized).(¤Ûê¾ýÿÿÿÿ8àó—±ð0
+l	java:S103v"KSplit this 132 characters long line (which is greater than 120 authorized).(ýÁ‰°þÿÿÿÿ8àó—±ð0
+g	java:S103x"KSplit this 129 characters long line (which is greater than 120 authorized).(äºû8àó—±ð0
+—
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚–ˆ‡
+R
+java:S2039-"5Explicitly declare the visibility for "table1Orders".(£êÿÃ8äó—±ð0
+R
+java:S2039."5Explicitly declare the visibility for "table2Orders".(´¯Ú8äó—±ð0
+W
+java:S2039/"5Explicitly declare the visibility for "table3Orders".(¾–ÚÄûÿÿÿÿ8äó—±ð0
+W
+java:S20390"5Explicitly declare the visibility for "table4Orders".(‚âìéûÿÿÿÿ8äó—±ð0
+R
+java:S20391"5Explicitly declare the visibility for "table5Orders".(×‹â8äó—±ð0
+R
+java:S20392"5Explicitly declare the visibility for "table6Orders".(¬–Â‚8äó—±ð0
+W
+java:S20393"5Explicitly declare the visibility for "table7Orders".(ÀºžËúÿÿÿÿ8äó—±ð0
+W
+java:S20394"5Explicitly declare the visibility for "table8Orders".(éüúêÿÿÿÿÿ8åó—±ð0
+R
+java:S20396"0Explicitly declare the visibility for "service".(Ì·ÄÓÿÿÿÿÿ8åó—±ð0
+=
+java:S2211@"Specify a type for: 'event'(Ÿ‰þÿÿÿÿ8îó—±ð0
+=
+java:S2211D"Specify a type for: 'event'(²Ëõ˜úÿÿÿÿ8ðó—±ð0
+8
+java:S2211H"Specify a type for: 'event'(´–ð†8ñó—±ð0
+8
+java:S2211L"Specify a type for: 'event'(¯ÆÉû8óó—±ð0
+=
+java:S2211P"Specify a type for: 'event'(Áž¤÷ûÿÿÿÿ8õó—±ð0
+8
+java:S2211T"Specify a type for: 'event'(¸ÍùÄ8÷ó—±ð0
+8
+java:S2211X"Specify a type for: 'event'(÷£õ8ùó—±ð0
+=
+java:S2211\"Specify a type for: 'event'(§ý‘áüÿÿÿÿ8úó—±ð0
+N
+java:S1128"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ
+L
+java:S1128"7Remove this unused import 'javafx.scene.control.Alert'.(ÊÇê:
+P
+java:S1128"5Remove this unused import 'javafx.scene.layout.VBox'.(íÆáÂùÿÿÿÿ
+K
+java:S1128"5Remove this unused import 'javafx.scene.paint.Color'.(Ïî£à
+L
+java:S1128"6Remove this unused import 'javafx.scene.shape.Circle'.(ÃÁò«
+K
+java:S1128"5Remove this unused import 'javafx.stage.PopupWindow'.(˜ŽÏŸ
+T
+java:S1128"9Remove this unused import 'javafx.scene.text.FontWeight'.(„­Þþÿÿÿÿ
+T
+java:S1128">Remove this unused import 'javafx.scene.paint.Color.DARKBLUE'.(”ƒð±
