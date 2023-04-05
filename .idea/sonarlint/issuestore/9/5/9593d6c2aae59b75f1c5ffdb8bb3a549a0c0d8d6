@@ -1,0 +1,134 @@
+
+™
+java:S1120"wMake this line start after 2 spaces instead of 4 in order to indent the code consistently. (Indentation level is at 2.)(İ‚±şÿÿÿÿ8ññ—±ğ0
+”
+java:S11202"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Ûù®Ã8òñ—±ğ0
+”
+java:S11205"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ûĞ¸—8òñ—±ğ0
+”
+java:S1120D"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÜŒˆ’8óñ—±ğ0
+”
+java:S1120K"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(Øˆë¨8ôñ—±ğ0
+–
+java:S1120Q"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÉŸ¢8ôñ—±ğ0
+–
+java:S1120`"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(…Üóˆ8õñ—±ğ0
+”
+java:S1120r"wMake this line start after 4 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÆÖµ8õñ—±ğ0
+•
+java:S1120}"xMake this line start after 10 spaces instead of 8 in order to indent the code consistently. (Indentation level is at 2.)(ÊáÉ8öñ—±ğ0
+›
+java:S1120~"yMake this line start after 12 spaces instead of 11 in order to indent the code consistently. (Indentation level is at 2.)(ªÄÒĞüÿÿÿÿ8öñ—±ğ0
+œ
+java:S1120‰"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÎÃßÓüÿÿÿÿ8öñ—±ğ0
+—
+java:S1120‹"yMake this line start after 14 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(ÊáÉ8÷ñ—±ğ0
+—
+java:S1120Œ"yMake this line start after 16 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(³Û©×8÷ñ—±ğ0
+œ
+java:S1120”"yMake this line start after 10 spaces instead of 12 in order to indent the code consistently. (Indentation level is at 2.)(Ù©×Ìúÿÿÿÿ8÷ñ—±ğ0
+—
+java:S1120—"yMake this line start after 12 spaces instead of 16 in order to indent the code consistently. (Indentation level is at 2.)(›õ•Û8øñ—±ğ0
+U
+java:S12138"8Move this variable to comply with Java Code Conventions.(‚…è8ùñ—±ğ0
+T
+java:S12139"8Move this variable to comply with Java Code Conventions.(Ø¾úo8ùñ—±ğ0
+U
+java:S1213;"8Move this variable to comply with Java Code Conventions.(Ù½©Æ8ùñ—±ğ0
+T
+java:S1213<"8Move this variable to comply with Java Code Conventions.(›ÊØ8úñ—±ğ0
+Z
+java:S1213="8Move this variable to comply with Java Code Conventions.(³£–øÿÿÿÿ8úñ—±ğ0
+Z
+java:S1213>"8Move this variable to comply with Java Code Conventions.(´ÒÅğÿÿÿÿÿ8úñ—±ğ0
+a
+java:S1213?"?Move this static variable to comply with Java Code Conventions.(ù„¦İıÿÿÿÿ8úñ—±ğ0
+]
+java:S1213A";Move this constructor to comply with Java Code Conventions.(È’Êøÿÿÿÿ8ûñ—±ğ0
+t	java:S109ƒ"RAssign this magic number 2 to a well-named constant, and use the constant instead.(£Êµµúÿÿÿÿ8üñ—±ğ0
+t	java:S109ƒ"RAssign this magic number 3 to a well-named constant, and use the constant instead.(£Êµµúÿÿÿÿ8üñ—±ğ0
+t	java:S109ƒ"RAssign this magic number 4 to a well-named constant, and use the constant instead.(£Êµµúÿÿÿÿ8üñ—±ğ0
+t	java:S109ƒ"RAssign this magic number 5 to a well-named constant, and use the constant instead.(£Êµµúÿÿÿÿ8üñ—±ğ0
+J
+java:S3740"/Provide the parametrized type for this generic.(èöâáøÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(×è¸–
+E
+java:S3740"/Provide the parametrized type for this generic.(ñªò 
+J
+java:S3740"/Provide the parametrized type for this generic.(ƒÀÒëüÿÿÿÿ
+n
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ÊØ
+f
+java:S5612_"DReduce this lambda expression number of lines from 14 to at most 10.(õ‚Ãäûÿÿÿÿ8†ò—±ğ0
+C
+java:S1604{"(Make this anonymous inner class a lambda(ÎÃßÓüÿÿÿÿ
+p
+java:S1104;"ZMake observableList a static final constant or non-public and provide accessors if needed.(Ù½©Æ
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Éüß 8˜ò—±ğ0
+c
+java:S11061"AMove this left curly brace to the beginning of next line of code.(ßÄ‰şÿÿÿÿ8˜ò—±ğ0
+^
+java:S11064"AMove this left curly brace to the beginning of next line of code.(‚ø÷8™ò—±ğ0
+c
+java:S1106A"AMove this left curly brace to the beginning of next line of code.(È’Êøÿÿÿÿ8™ò—±ğ0
+c
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(ç½… ûÿÿÿÿ8™ò—±ğ0
+^
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(§Ì©8™ò—±ğ0
+c
+java:S1106o"AMove this left curly brace to the beginning of next line of code.(·òşÿÿÿÿ8™ò—±ğ0
+c
+java:S1106{"AMove this left curly brace to the beginning of next line of code.(ÎÃßÓüÿÿÿÿ8šò—±ğ0
+^
+java:S1106}"AMove this left curly brace to the beginning of next line of code.(ÊáÉ8šò—±ğ0
+d
+java:S1106‰"AMove this left curly brace to the beginning of next line of code.(ÎÃßÓüÿÿÿÿ8šò—±ğ0
+_
+java:S1106‹"AMove this left curly brace to the beginning of next line of code.(ÊáÉ8šò—±ğ0
+^
+java:S1106–"AMove this left curly brace to the beginning of next line of code.(¼ı¦78›ò—±ğ0
+;
+java:S1451"&Add or update the header of this file.8¹ò—±ğ0
+l	java:S103["KSplit this 131 characters long line (which is greater than 120 authorized).(ÇË®ûùÿÿÿÿ8ºò—±ğ0
+g	java:S103}"KSplit this 130 characters long line (which is greater than 120 authorized).(ÊáÉ8ºò—±ğ0
+h	java:S103‹"KSplit this 133 characters long line (which is greater than 120 authorized).(ÊáÉ8ºò—±ğ0
+J
+java:S2208".Explicitly import the specific classes needed.(ßõ8½ò—±ğ0
+v
+java:S1820"ZRefactor this class so it has no more than 20 fields, rather than the 21 it currently has.(Éüß 8¿ò—±ğ0
+œ
+java:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(È’Êøÿÿÿÿ
+r
+java:S1450="WRemove the "menuData" field and declare it as a local variable in the relevant methods.(³£–øÿÿÿÿ
+L
+java:S26965"6Make the enclosing method "static" or remove this set.(ûĞ¸—
+K
+java:S22095"5Change this instance-reference to a static reference.(ûĞ¸—
+V	java:S125="<This block of commented-out lines of code should be removed.(³£–øÿÿÿÿ
+W	java:S139="6Move this trailing comment on the previous empty line.(³£–øÿÿÿÿ8ãò—±ğ0
+K
+java:S2143>")Use the Java 8 Date and Time API instead.(´ÒÅğÿÿÿÿÿ8ãò—±ğ0
+8
+java:S2211P"Specify a type for: 'event'(Ô™Œ¦8íò—±ğ0
+G
+java:S1602[",Remove useless curly braces around statement(ÇË®ûùÿÿÿÿ
+=
+java:S2211["Specify a type for: 'event'(ÇË®ûùÿÿÿÿ8õò—±ğ0
+=
+java:S2211_"Specify a type for: 'event'(õ‚Ãäûÿÿÿÿ8÷ò—±ğ0
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(ú•€Ë
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(ÑºŠ‰
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(¢ùù
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(ú•€Ë
+P
+java:S2209k"5Change this instance-reference to a static reference.(…î˜±ÿÿÿÿÿ
+H
+java:S1602ˆ",Remove useless curly braces around statement(¸¯¥–úÿÿÿÿ
+>
+java:S2211ˆ"Specify a type for: 'event'(¸¯¥–úÿÿÿÿ8ó—±ğ0
+>
+java:S2211“"Specify a type for: 'event'(Ô×‰”úÿÿÿÿ8•ó—±ğ0
+O
+java:S1128"4Remove this unused import 'pizzashop.gui.OrdersGUI'.(¿ëÇÈøÿÿÿÿ
