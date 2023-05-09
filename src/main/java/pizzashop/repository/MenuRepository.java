@@ -16,7 +16,7 @@ public class MenuRepository {
         Properties prop = new Properties();
 
         try {
-            prop.load(new FileInputStream("/Users/andrei/Documents/Facultate/Anul 3/Semestrul 2/VVSS/Pizza/src/main/resources/config.properties"));
+            prop.load(new FileInputStream("C:\\Users\\drago\\OneDrive\\Desktop\\VVSS\\lab3\\PizzaShop\\src\\main\\resources\\config.properties"));
         } catch (IOException e) {
             e.printStackTrace();
         }
