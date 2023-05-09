@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
-class PaymentRepositoryTest2 {
+class PaymentRepositoryStep1Test {
 
     private PaymentRepository paymentRepository;
 
