@@ -1,0 +1,5 @@
+pizzashop\service\PizzaServiceStep3Test.class
+pizzashop\repository\PaymentRepositoryStep1Test.class
+pizzashop\model\PaymentTest.class
+pizzashop\service\PizzaServiceStep1Test.class
+pizzashop\service\PizzaServiceStep2Test.class
